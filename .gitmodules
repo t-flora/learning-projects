@@ -1,0 +1,15 @@
+[submodule "bright-scraper"]
+	path = bright-scraper
+	url = ./bright-scraper
+[submodule "landing-deals"]
+	path = landing-deals
+	url = ./landing-deals
+[submodule "mongodb-mflix"]
+	path = mongodb-mflix
+	url = ./mongodb-mflix
+[submodule "nextjs-blog"]
+	path = nextjs-blog
+	url = ./nextjs-blog
+[submodule "websockets-messaging"]
+	path = websockets-messaging
+	url = ./websockets-messaging
